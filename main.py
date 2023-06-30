@@ -19,7 +19,7 @@ ELEMENTS = " Sm "
 MOON_EMOJI = "🌕🌖🌗🌘🌑🌒🌓🌔"
 LEAP_YEAR = " 0 "
 FIRE_EMOJI = "🔥"
-I_TEXT = " I am worthy"
+I_TEXT = " i am worthy"
 WORM_EMOJI = "🐛"
 STRONG_EMOJI = "🏋️‍♂️🏋️‍♂️🏋️‍♂️🏋️‍♂️🏋️‍♂️🏋️‍♂️"
 
